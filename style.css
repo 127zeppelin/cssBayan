@@ -63,7 +63,7 @@ h1 {
 }
 
 .accordion .accordion-item input[type="radio"]+label span {
-  color: blue;
+  color: rgb(26, 26, 255);
 }
 
 .accordion .accordion-item input[type="radio"]:checked+label span {
